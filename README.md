@@ -1,0 +1,1 @@
+# Part-recognition-with-mind-vision-camera
